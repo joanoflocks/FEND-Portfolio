@@ -1,0 +1,19 @@
+.doodle {
+	top: 6em;
+}
+
+header {
+	padding: 1.5em 0 2.5em 0;
+}
+
+.project {
+	width: calc(50% - 5px);
+}
+
+article:nth-child(2) {
+	margin-right: 10px;
+}
+
+body {
+	padding: 0 1em;
+}

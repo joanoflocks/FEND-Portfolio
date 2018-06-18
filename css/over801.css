@@ -1,0 +1,14 @@
+.project {
+	width: calc(33.33% - 7px);
+}
+
+article:nth-child(2), article:nth-child(3) {
+	margin-right: 10px;
+}
+
+
+body {
+	width: 800px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
